@@ -1,3 +1,7 @@
+<!--Banner-->
+![MuhammadZaki07 Banner Image](./banner.png)
+
+
 <h1 align="left">👨‍💻 Muhammad Zaki | Web Developer</h1>
 
 ###
@@ -58,13 +62,26 @@
 
 <p align="left">-High attention to detail in code and design<br>-A problem-solving mindset with a passion for learning new technologies<br>-Collaboration-oriented approach to deliver exceptional results</p>
 
-###
-
-<h2 align="left">📫 Contact & Connect:</h2>
-
-###
-
-<div align="left">
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
+<br/>
+<p align="center">
+  <a href="https://github.com/MuhammadZaki07">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=darkhub">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br/>
+<hr/>
+<div align="center">
   <a href="www.linkedin.com/in/muhmmad-zaki-ulumuddin-658195265" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
@@ -81,23 +98,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
 </div>
-<br/>
-<br/>
-
-###
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/MuhammadZaki07">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=darkhub">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<hr/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
