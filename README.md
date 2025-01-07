@@ -72,5 +72,5 @@
 ###
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadZaki07)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&theme=gruvbox&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 ###
