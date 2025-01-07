@@ -60,8 +60,8 @@
   </a>
 </div>
 
-<!-- ###
+ ###
 
-<br clear="both">![snake animation](https://github.com/MuhammadZaki07/README/raw/output/github-contribution-grid-snake2.svg)
+https://raw.githubusercontent.com/MuhammadZaki07/MuhammadZaki07/output/github-contribution-grid-snake-dark.svg
 
-### -->
+###
