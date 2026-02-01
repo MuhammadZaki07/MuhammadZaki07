@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">Improving online course platforms for better engagement<br>Building web-based games with seamless user experiences<br>🛠️ Exploring modern frameworks for optimized development</p>
+<p align="left">- Improving online course platforms for better engagement<br>- Building web-based games with seamless user experiences<br>- Exploring modern frameworks for optimized development</p>
 
 ###
 
