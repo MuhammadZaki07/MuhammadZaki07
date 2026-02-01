@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">🌍 Based in Indonesia | 💡 Innovating with Laravel & Next.js</h4>
+<h4 align="left">Based in Indonesia | Innovating with Laravel & Next.js</h4>
 
 ###
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">🔑 Core Skills:</h2>
+<h2 align="left">Core Skills:</h2>
 
 ###
 
