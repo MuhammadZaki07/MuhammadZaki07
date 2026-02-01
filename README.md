@@ -79,7 +79,7 @@
 </picture> -->
 <br/>
 <br/>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MuhammadZaki07">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadZaki07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=darkhub">
@@ -88,7 +88,7 @@
     </picture>
   </a>
 </p>
-<br/>
+<br/> -->
 <hr/>
 <div align="center">
   <a href="www.linkedin.com/in/muhmmad-zaki-ulumuddin-658195265" target="_blank">
