@@ -50,15 +50,15 @@
 
 ###
 
-<h2 align="left">📈 What I’m Working On:</h2>
+<h2 align="left">What I’m Working On:</h2>
 
 ###
 
-<p align="left">🚀 Improving online course platforms for better engagement<br>🎮 Building web-based games with seamless user experiences<br>🛠️ Exploring modern frameworks for optimized development</p>
+<p align="left">Improving online course platforms for better engagement<br>Building web-based games with seamless user experiences<br>🛠️ Exploring modern frameworks for optimized development</p>
 
 ###
 
-<h2 align="left">🌟 Values I Bring:</h2>
+<h2 align="left">Values I Bring:</h2>
 
 ###
 
